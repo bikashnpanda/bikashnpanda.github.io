@@ -1,2 +1,1 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bikashnpanda_bikashnpanda.github.io&metric=alert_status)](https://sonarcloud.io/dashboard?id=bikashnpanda_bikashnpanda.github.io)
-[![buddy pipeline](https://app.buddy.works/sbcfindercicd/my-resume-website-3/pipelines/pipeline/240802/badge.svg?token=d3eaf81c74513fdab84bba0da5e63773a0fc41051320c4255194013669c6edb6 "buddy pipeline")](https://app.buddy.works/sbcfindercicd/my-resume-website-3/pipelines/pipeline/240802)
